@@ -94,53 +94,7 @@
       <Name>DublinNorth</Name>
     </HspcIncidence>
   </CCARates>
-  <CHORates>
-    <HspcIncidence>
-      <ConfirmedCases>889</ConfirmedCases>
-      <IncidencePer100k>227.2</IncidencePer100k>
-      <Name>CHO1</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>796</ConfirmedCases>
-      <IncidencePer100k>175.7</IncidencePer100k>
-      <Name>CHO2</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>767</ConfirmedCases>
-      <IncidencePer100k>199.2</IncidencePer100k>
-      <Name>CHO3</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1447</ConfirmedCases>
-      <IncidencePer100k>209.5</IncidencePer100k>
-      <Name>CHO4</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>627</ConfirmedCases>
-      <IncidencePer100k>122.9</IncidencePer100k>
-      <Name>CHO5</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>460</ConfirmedCases>
-      <IncidencePer100k>120.1</IncidencePer100k>
-      <Name>CHO6</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1191</ConfirmedCases>
-      <IncidencePer100k>168.3</IncidencePer100k>
-      <Name>CHO7</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1246</ConfirmedCases>
-      <IncidencePer100k>201.2</IncidencePer100k>
-      <Name>CHO8</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1413</ConfirmedCases>
-      <IncidencePer100k>227.4</IncidencePer100k>
-      <Name>CHO9</Name>
-    </HspcIncidence>
-  </CHORates>
+  <CHORates i:nil="true" />
   <CountyRates>
     <HspcIncidence>
       <ConfirmedCases>464</ConfirmedCases>
@@ -394,7 +348,7 @@
     <Unknown i:nil="true" />
     <Yes i:nil="true" />
   </SymptomStatusAtTimeOfTestCharacteristics>
-  <ToDate>0202-11-06T00:00:00</ToDate>
+  <ToDate>2020-11-06T00:00:00</ToDate>
   <TotalConfirmedCases>
     <Absolute>8836</Absolute>
     <Percent>100</Percent>

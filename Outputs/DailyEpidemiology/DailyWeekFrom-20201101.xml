@@ -291,7 +291,7 @@
       <Percent>0.17</Percent>
     </Unknown>
   </SexCharacteristics>
-  <SourceFileName>COVID-19_14_day_epidemiology_report_20201115_website (1).pdf</SourceFileName>
+  <SourceFileName>COVID-19_14_day_epidemiology_report_20201115_website.pdf</SourceFileName>
   <SymptomStatusAtTimeOfTestCharacteristics>
     <No>
       <Absolute>1602</Absolute>
@@ -306,7 +306,7 @@
       <Percent>59.01</Percent>
     </Yes>
   </SymptomStatusAtTimeOfTestCharacteristics>
-  <ToDate>0202-11-14T00:00:00</ToDate>
+  <ToDate>2020-11-14T00:00:00</ToDate>
   <TotalConfirmedCases>
     <Absolute>6041</Absolute>
     <Percent>100</Percent>

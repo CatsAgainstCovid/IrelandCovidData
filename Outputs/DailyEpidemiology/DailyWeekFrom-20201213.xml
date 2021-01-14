@@ -94,182 +94,136 @@
       <Name>DublinNorth</Name>
     </HspcIncidence>
   </CCARates>
-  <CHORates>
-    <HspcIncidence>
-      <ConfirmedCases>1151</ConfirmedCases>
-      <IncidencePer100k>294.2</IncidencePer100k>
-      <Name>CHO1</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>544</ConfirmedCases>
-      <IncidencePer100k>120.1</IncidencePer100k>
-      <Name>CHO2</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>883</ConfirmedCases>
-      <IncidencePer100k>229.4</IncidencePer100k>
-      <Name>CHO3</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1249</ConfirmedCases>
-      <IncidencePer100k>180.9</IncidencePer100k>
-      <Name>CHO4</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1157</ConfirmedCases>
-      <IncidencePer100k>226.7</IncidencePer100k>
-      <Name>CHO5</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>967</ConfirmedCases>
-      <IncidencePer100k>252.4</IncidencePer100k>
-      <Name>CHO6</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1272</ConfirmedCases>
-      <IncidencePer100k>179.7</IncidencePer100k>
-      <Name>CHO7</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1101</ConfirmedCases>
-      <IncidencePer100k>177.8</IncidencePer100k>
-      <Name>CHO8</Name>
-    </HspcIncidence>
-    <HspcIncidence>
-      <ConfirmedCases>1648</ConfirmedCases>
-      <IncidencePer100k>265.2</IncidencePer100k>
-      <Name>CHO9</Name>
-    </HspcIncidence>
-  </CHORates>
+  <CHORates i:nil="true" />
   <CountyRates>
     <HspcIncidence>
       <ConfirmedCases>678</ConfirmedCases>
-      <IncidencePer100k>425.9</IncidencePer100k>
+      <IncidencePer100k>425.90079903512739333634856000</IncidencePer100k>
       <Name>Donegal</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>522</ConfirmedCases>
-      <IncidencePer100k>348.6</IncidencePer100k>
+      <IncidencePer100k>348.64615754531732143572755000</IncidencePer100k>
       <Name>Wexford</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>652</ConfirmedCases>
-      <IncidencePer100k>334.5</IncidencePer100k>
+      <IncidencePer100k>334.53224490633610228887783000</IncidencePer100k>
       <Name>Limerick</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>394</ConfirmedCases>
-      <IncidencePer100k>305.7</IncidencePer100k>
+      <IncidencePer100k>305.70125073709692436609665000</IncidencePer100k>
       <Name>Louth</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>177</ConfirmedCases>
-      <IncidencePer100k>288.3</IncidencePer100k>
+      <IncidencePer100k>288.33936076629850454501026000</IncidencePer100k>
       <Name>Monaghan</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>266</ConfirmedCases>
-      <IncidencePer100k>268.1</IncidencePer100k>
+      <IncidencePer100k>268.05869074492099322799097000</IncidencePer100k>
       <Name>Kilkenny</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>368</ConfirmedCases>
-      <IncidencePer100k>249.1</IncidencePer100k>
+      <IncidencePer100k>249.14188223983968261490654000</IncidencePer100k>
       <Name>Kerry</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>3356</ConfirmedCases>
-      <IncidencePer100k>249.1</IncidencePer100k>
+      <IncidencePer100k>249.44217416058546070245176000</IncidencePer100k>
       <Name>Dublin</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>128</ConfirmedCases>
-      <IncidencePer100k>224.8</IncidencePer100k>
+      <IncidencePer100k>224.82962130260661842197710000</IncidencePer100k>
       <Name>Carlow</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>149</ConfirmedCases>
-      <IncidencePer100k>195.6</IncidencePer100k>
+      <IncidencePer100k>195.59966393614786809493804000</IncidencePer100k>
       <Name>Cavan</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>126</ConfirmedCases>
-      <IncidencePer100k>192.3</IncidencePer100k>
+      <IncidencePer100k>192.26367589837491416800183000</IncidencePer100k>
       <Name>Sligo</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>161</ConfirmedCases>
-      <IncidencePer100k>190.1</IncidencePer100k>
+      <IncidencePer100k>190.08937742777193997426119000</IncidencePer100k>
       <Name>Laois</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>344</ConfirmedCases>
-      <IncidencePer100k>176.4</IncidencePer100k>
+      <IncidencePer100k>176.37045999876950841861324000</IncidencePer100k>
       <Name>Meath</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>375</ConfirmedCases>
-      <IncidencePer100k>168.5</IncidencePer100k>
+      <IncidencePer100k>168.53629597670154244418078000</IncidencePer100k>
       <Name>Kildare</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>882</ConfirmedCases>
-      <IncidencePer100k>162.5</IncidencePer100k>
+      <IncidencePer100k>162.47043480183027918389001000</IncidencePer100k>
       <Name>Cork</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>186</ConfirmedCases>
-      <IncidencePer100k>160.1</IncidencePer100k>
+      <IncidencePer100k>160.10191433686819997245558000</IncidencePer100k>
       <Name>Waterford</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>169</ConfirmedCases>
-      <IncidencePer100k>129.5</IncidencePer100k>
+      <IncidencePer100k>129.49496961848789720091643000</IncidencePer100k>
       <Name>Mayo</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>318</ConfirmedCases>
-      <IncidencePer100k>123.2</IncidencePer100k>
+      <IncidencePer100k>123.22811150981562284447682000</IncidencePer100k>
       <Name>Galway</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>137</ConfirmedCases>
-      <IncidencePer100k>115.3</IncidencePer100k>
+      <IncidencePer100k>115.30336567999528686972403000</IncidencePer100k>
       <Name>Clare</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>101</ConfirmedCases>
-      <IncidencePer100k>113.8</IncidencePer100k>
+      <IncidencePer100k>113.77717697420299650782922000</IncidencePer100k>
       <Name>Westmeath</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>160</ConfirmedCases>
-      <IncidencePer100k>112.3</IncidencePer100k>
+      <IncidencePer100k>112.33982797963840617869054000</IncidencePer100k>
       <Name>Wicklow</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>150</ConfirmedCases>
-      <IncidencePer100k>94.0</IncidencePer100k>
+      <IncidencePer100k>94.01264783488872036251277000</IncidencePer100k>
       <Name>Tipperary</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>57</ConfirmedCases>
-      <IncidencePer100k>88.3</IncidencePer100k>
+      <IncidencePer100k>88.31184928111056023797719000</IncidencePer100k>
       <Name>Roscommon</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>36</ConfirmedCases>
-      <IncidencePer100k>88.1</IncidencePer100k>
+      <IncidencePer100k>88.07770410784625547427397000</IncidencePer100k>
       <Name>Longford</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>65</ConfirmedCases>
-      <IncidencePer100k>83.4</IncidencePer100k>
+      <IncidencePer100k>83.37502084375521093880273000</IncidencePer100k>
       <Name>Offaly</Name>
     </HspcIncidence>
     <HspcIncidence>
       <ConfirmedCases>22</ConfirmedCases>
-      <IncidencePer100k>68.7</IncidencePer100k>
+      <IncidencePer100k>68.655598551991012358007740000</IncidencePer100k>
       <Name>Leitrim</Name>
     </HspcIncidence>
   </CountyRates>
@@ -403,7 +357,7 @@
       <Percent>48.57</Percent>
     </Yes>
   </SymptomStatusAtTimeOfTestCharacteristics>
-  <ToDate>0202-12-26T00:00:00</ToDate>
+  <ToDate>2020-12-26T00:00:00</ToDate>
   <TotalConfirmedCases>
     <Absolute>9979</Absolute>
     <Percent>100</Percent>

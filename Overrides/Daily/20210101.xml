@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HspcDailyEpidemiology xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CovidStats.DailyEpidemiology">
+  <Hospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>5</CasesHospitalised>
+      <CasesHospitalisedPercent>1.09</CasesHospitalisedPercent>
+      <Name>0To4</Name>
+      <NumberOfCases>503</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>8</CasesHospitalised>
+      <CasesHospitalisedPercent>2.19</CasesHospitalisedPercent>
+      <Name>5To12</Name>
+      <NumberOfCases>1285</NumberOfCases>
+    </HspcHospitalised>
+	
+	<HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>14</CasesHospitalised>
+      <CasesHospitalisedPercent>3.83</CasesHospitalisedPercent>
+      <Name>15To24</Name>
+      <NumberOfCases>1754</NumberOfCases>
+    </HspcHospitalised>
+   
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>21</CasesHospitalised>
+      <CasesHospitalisedPercent>5.74</CasesHospitalisedPercent>
+      <Name>25To34</Name>
+      <NumberOfCases>2784</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>1</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>4.55</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>28</CasesHospitalised>
+      <CasesHospitalisedPercent>7.65</CasesHospitalisedPercent>
+      <Name>35To44</Name>
+      <NumberOfCases>1659</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>9.09</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>39</CasesHospitalised>
+      <CasesHospitalisedPercent>10.66</CasesHospitalisedPercent>
+      <Name>45To54</Name>
+      <NumberOfCases>1661</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>9.09</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>51</CasesHospitalised>
+      <CasesHospitalisedPercent>13.93</CasesHospitalisedPercent>
+      <Name>55To64</Name>
+      <NumberOfCases>1282</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>12</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>54.55</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>73</CasesHospitalised>
+      <CasesHospitalisedPercent>19.95</CasesHospitalisedPercent>
+      <Name>65To74</Name>
+      <NumberOfCases>645</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>5</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>22.73</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>82</CasesHospitalised>
+      <CasesHospitalisedPercent>22.4</CasesHospitalisedPercent>
+      <Name>75To84</Name>
+      <NumberOfCases>351</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>46</CasesHospitalised>
+      <CasesHospitalisedPercent>12.57</CasesHospitalisedPercent>
+      <Name>85Plus</Name>
+      <NumberOfCases>219</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>0</CasesHospitalised>
+      <CasesHospitalisedPercent>0</CasesHospitalisedPercent>
+      <Name>Unknown</Name>
+      <NumberOfCases>3</NumberOfCases>
+    </HspcHospitalised>
+  </Hospitalised>
+ 
+</HspcDailyEpidemiology>

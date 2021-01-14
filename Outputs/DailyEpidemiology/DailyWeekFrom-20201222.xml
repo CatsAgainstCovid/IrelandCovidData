@@ -394,7 +394,7 @@
     <Unknown i:nil="true" />
     <Yes i:nil="true" />
   </SymptomStatusAtTimeOfTestCharacteristics>
-  <ToDate>0202-01-04T00:00:00</ToDate>
+  <ToDate>2021-01-04T00:00:00</ToDate>
   <TotalConfirmedCases>
     <Absolute>32112</Absolute>
     <Percent>100</Percent>

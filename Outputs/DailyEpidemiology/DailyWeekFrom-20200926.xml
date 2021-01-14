@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HspcDailyEpidemiology xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CovidStats.DailyEpidemiology">
+  <AgeCharacteristics>
+    <Age0To4>
+      <Absolute>193</Absolute>
+      <Percent>2.69</Percent>
+    </Age0To4>
+    <Age13To18>
+      <Absolute>0</Absolute>
+      <Percent>0</Percent>
+    </Age13To18>
+    <Age19To24>
+      <Absolute>0</Absolute>
+      <Percent>0</Percent>
+    </Age19To24>
+    <Age25To34>
+      <Absolute>1267</Absolute>
+      <Percent>17.69</Percent>
+    </Age25To34>
+    <Age35To44>
+      <Absolute>1013</Absolute>
+      <Percent>14.14</Percent>
+    </Age35To44>
+    <Age45To54>
+      <Absolute>970</Absolute>
+      <Percent>13.54</Percent>
+    </Age45To54>
+    <Age55To64>
+      <Absolute>716</Absolute>
+      <Percent>10</Percent>
+    </Age55To64>
+    <Age5To12>
+      <Absolute>0</Absolute>
+      <Percent>0</Percent>
+    </Age5To12>
+    <Age65To74>
+      <Absolute>341</Absolute>
+      <Percent>4.76</Percent>
+    </Age65To74>
+    <Age75To84>
+      <Absolute>185</Absolute>
+      <Percent>2.58</Percent>
+    </Age75To84>
+    <Age85Plus>
+      <Absolute>114</Absolute>
+      <Percent>1.59</Percent>
+    </Age85Plus>
+    <AgeUnknown>
+      <Absolute>1</Absolute>
+      <Percent>0.01</Percent>
+    </AgeUnknown>
+    <MeanAge>36</MeanAge>
+    <MedianAge>32</MedianAge>
+  </AgeCharacteristics>
+  <CCARates />
+  <CHORates i:nil="true" />
+  <CountyRates i:nil="true" />
+  <FromDate>2020-09-26T00:00:00</FromDate>
+  <Hospitalised i:nil="true" />
+  <PreparedDate>2020-10-10T00:00:00</PreparedDate>
+  <SexCharacteristics>
+    <Female>
+      <Absolute>3584</Absolute>
+      <Percent>50.03</Percent>
+    </Female>
+    <Male>
+      <Absolute>3565</Absolute>
+      <Percent>49.77</Percent>
+    </Male>
+    <MaleFemaleRatio>0.99</MaleFemaleRatio>
+    <Unknown>
+      <Absolute>14</Absolute>
+      <Percent>0.2</Percent>
+    </Unknown>
+  </SexCharacteristics>
+  <SourceFileName>COVID-19_14_day_epidemiology_report_Website -10102020.pdf</SourceFileName>
+  <SymptomStatusAtTimeOfTestCharacteristics>
+    <No i:nil="true" />
+    <Unknown i:nil="true" />
+    <Yes i:nil="true" />
+  </SymptomStatusAtTimeOfTestCharacteristics>
+  <ToDate>2020-10-09T00:00:00</ToDate>
+  <TotalConfirmedCases>
+    <Absolute>7163</Absolute>
+    <Percent>100</Percent>
+  </TotalConfirmedCases>
+  <UnderlyingConditionsCharacteristics>
+    <No>
+      <Absolute>4414</Absolute>
+      <Percent>61.62</Percent>
+    </No>
+    <Unknown>
+      <Absolute>1241</Absolute>
+      <Percent>17.33</Percent>
+    </Unknown>
+    <Yes>
+      <Absolute>1508</Absolute>
+      <Percent>21.05</Percent>
+    </Yes>
+  </UnderlyingConditionsCharacteristics>
+</HspcDailyEpidemiology>

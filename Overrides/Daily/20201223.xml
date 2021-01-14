@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HspcDailyEpidemiology xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CovidStats.DailyEpidemiology">
+  <Hospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>2</CasesHospitalised>
+      <CasesHospitalisedPercent>0.6</CasesHospitalisedPercent>
+      <Name>0To4</Name>
+      <NumberOfCases>283</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>2</CasesHospitalised>
+      <CasesHospitalisedPercent>0.6</CasesHospitalisedPercent>
+      <Name>5To12</Name>
+      <NumberOfCases>588</NumberOfCases>
+    </HspcHospitalised>
+	
+	<HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>10</CasesHospitalised>
+      <CasesHospitalisedPercent>3.02</CasesHospitalisedPercent>
+      <Name>13To18</Name>
+      <NumberOfCases>513</NumberOfCases>
+    </HspcHospitalised>
+
+	<HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>19</CasesHospitalised>
+      <CasesHospitalisedPercent>5.74</CasesHospitalisedPercent>
+      <Name>19To24</Name>
+      <NumberOfCases>820</NumberOfCases>
+    </HspcHospitalised>
+
+   
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>20</CasesHospitalised>
+      <CasesHospitalisedPercent>6.04</CasesHospitalisedPercent>
+      <Name>25To34</Name>
+      <NumberOfCases>1259</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>28</CasesHospitalised>
+      <CasesHospitalisedPercent>8.46</CasesHospitalisedPercent>
+      <Name>35To44</Name>
+      <NumberOfCases>1216</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>4</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>30.77</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>39</CasesHospitalised>
+      <CasesHospitalisedPercent>11.78</CasesHospitalisedPercent>
+      <Name>45To54</Name>
+      <NumberOfCases>1056</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>4</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>30.77</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>47</CasesHospitalised>
+      <CasesHospitalisedPercent>4.2</CasesHospitalisedPercent>
+      <Name>55To64</Name>
+      <NumberOfCases>797</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>15.38</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>49</CasesHospitalised>
+      <CasesHospitalisedPercent>14.8</CasesHospitalisedPercent>
+      <Name>65To74</Name>
+      <NumberOfCases>354</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>3</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>23.08</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>75</CasesHospitalised>
+      <CasesHospitalisedPercent>22.66</CasesHospitalisedPercent>
+      <Name>75To84</Name>
+      <NumberOfCases>257</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>40</CasesHospitalised>
+      <CasesHospitalisedPercent>12.08</CasesHospitalisedPercent>
+      <Name>85Plus</Name>
+      <NumberOfCases>153</NumberOfCases>
+    </HspcHospitalised>
+	
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>0</CasesHospitalised>
+      <CasesHospitalisedPercent>0</CasesHospitalisedPercent>
+      <Name>Unknown</Name>
+      <NumberOfCases>1</NumberOfCases>
+    </HspcHospitalised>
+  </Hospitalised>
+ 
+</HspcDailyEpidemiology>

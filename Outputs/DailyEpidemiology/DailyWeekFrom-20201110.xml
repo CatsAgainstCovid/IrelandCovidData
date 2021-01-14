@@ -403,7 +403,7 @@
       <Percent>60.01</Percent>
     </Yes>
   </SymptomStatusAtTimeOfTestCharacteristics>
-  <ToDate>0202-11-23T00:00:00</ToDate>
+  <ToDate>2020-11-23T00:00:00</ToDate>
   <TotalConfirmedCases>
     <Absolute>5131</Absolute>
     <Percent>100</Percent>
