@@ -136,6 +136,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -318,6 +322,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -500,6 +508,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -682,6 +694,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -864,6 +880,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -1046,6 +1066,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -1228,6 +1252,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -1410,6 +1438,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -1592,6 +1624,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -1774,6 +1810,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -1956,6 +1996,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -2138,6 +2182,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -2320,6 +2368,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -2502,6 +2554,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -2684,6 +2740,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -2866,6 +2926,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -3048,6 +3112,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -3230,6 +3298,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -3412,6 +3484,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -3594,6 +3670,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -3776,6 +3856,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -3958,6 +4042,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -4140,6 +4228,10 @@
         <CasesHospitalised15To24>7</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>5.98</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -4322,6 +4414,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -4504,6 +4600,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -4686,6 +4786,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -4868,6 +4972,10 @@
         <CasesHospitalised15To24>8</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>5.97</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -5050,6 +5158,10 @@
         <CasesHospitalised15To24>10</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>7.46</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -5232,6 +5344,10 @@
         <CasesHospitalised15To24>12</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>8.63</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -5414,6 +5530,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -5596,6 +5716,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -5778,6 +5902,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -5960,6 +6088,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -6142,6 +6274,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -6324,6 +6460,10 @@
         <CasesHospitalised15To24>16</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>8.29</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -6506,6 +6646,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -6688,6 +6832,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -6870,6 +7018,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -7052,6 +7204,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -7234,6 +7390,10 @@
         <CasesHospitalised15To24>17</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>6.94</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -7416,6 +7576,10 @@
         <CasesHospitalised15To24>19</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>7.34</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -7598,6 +7762,10 @@
         <CasesHospitalised15To24>21</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>7.61</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -7780,6 +7948,10 @@
         <CasesHospitalised15To24>22</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>7.53</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -7962,6 +8134,10 @@
         <CasesHospitalised15To24>20</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>6.69</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -8144,6 +8320,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -8326,6 +8506,10 @@
         <CasesHospitalised15To24>18</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>5.92</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -8508,6 +8692,10 @@
         <CasesHospitalised15To24>19</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>6.03</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -8690,6 +8878,10 @@
         <CasesHospitalised15To24>18</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>5.34</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -8872,6 +9064,10 @@
         <CasesHospitalised15To24>21</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>5.79</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -9054,6 +9250,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -9236,6 +9436,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -9418,6 +9622,10 @@
         <CasesHospitalised15To24>17</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>4.93</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>1</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -9600,6 +9808,10 @@
         <CasesHospitalised15To24>15</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>4.27</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -9782,6 +9994,10 @@
         <CasesHospitalised15To24>14</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>4.05</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -9964,6 +10180,10 @@
         <CasesHospitalised15To24>15</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>4.23</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -10146,6 +10366,10 @@
         <CasesHospitalised15To24>18</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>4.88</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -10328,6 +10552,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -10510,6 +10738,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -10692,6 +10924,10 @@
         <CasesHospitalised15To24>14</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>3.83</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -10874,6 +11110,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1801</Cases19To24>
         <CasesHospitalised19To24>10</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.72</CasesHospitalisedPcnt19To24>
@@ -11056,6 +11296,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1593</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.97</CasesHospitalisedPcnt19To24>
@@ -11238,6 +11482,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1425</Cases19To24>
         <CasesHospitalised19To24>12</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.33</CasesHospitalisedPcnt19To24>
@@ -11420,6 +11668,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1323</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.01</CasesHospitalisedPcnt19To24>
@@ -11602,6 +11854,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1250</Cases19To24>
         <CasesHospitalised19To24>14</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.8</CasesHospitalisedPcnt19To24>
@@ -11784,6 +12040,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1147</Cases19To24>
         <CasesHospitalised19To24>12</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.41</CasesHospitalisedPcnt19To24>
@@ -11966,6 +12226,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1048</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3</CasesHospitalisedPcnt19To24>
@@ -12148,6 +12412,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>957</Cases19To24>
         <CasesHospitalised19To24>12</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.44</CasesHospitalisedPcnt19To24>
@@ -12330,6 +12598,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>888</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.83</CasesHospitalisedPcnt19To24>
@@ -12512,6 +12784,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>842</Cases19To24>
         <CasesHospitalised19To24>10</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.62</CasesHospitalisedPcnt19To24>
@@ -12694,6 +12970,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>780</Cases19To24>
         <CasesHospitalised19To24>13</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.46</CasesHospitalisedPcnt19To24>
@@ -12876,6 +13156,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -13058,6 +13342,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -13240,6 +13528,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -13422,6 +13714,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>655</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.01</CasesHospitalisedPcnt19To24>
@@ -13604,6 +13900,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>662</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.86</CasesHospitalisedPcnt19To24>
@@ -13786,6 +14086,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -13968,6 +14272,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>675</Cases19To24>
         <CasesHospitalised19To24>10</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.72</CasesHospitalisedPcnt19To24>
@@ -14150,6 +14458,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>645</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.9</CasesHospitalisedPcnt19To24>
@@ -14332,6 +14644,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -14514,6 +14830,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>646</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.22</CasesHospitalisedPcnt19To24>
@@ -14696,6 +15016,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>644</Cases19To24>
         <CasesHospitalised19To24>10</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.94</CasesHospitalisedPcnt19To24>
@@ -14878,6 +15202,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>634</Cases19To24>
         <CasesHospitalised19To24>9</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.7</CasesHospitalisedPcnt19To24>
@@ -15060,6 +15388,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>619</Cases19To24>
         <CasesHospitalised19To24>9</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.70</CasesHospitalisedPcnt19To24>
@@ -15242,6 +15574,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>605</Cases19To24>
         <CasesHospitalised19To24>8</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.59</CasesHospitalisedPcnt19To24>
@@ -15424,6 +15760,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>591</Cases19To24>
         <CasesHospitalised19To24>9</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.0</CasesHospitalisedPcnt19To24>
@@ -15606,6 +15946,10 @@
         <CasesHospitalised15To24>16</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>5.26</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -15788,6 +16132,10 @@
         <CasesHospitalised15To24>14</CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24>4.83</CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -15970,6 +16318,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>547</Cases19To24>
         <CasesHospitalised19To24>8</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.82</CasesHospitalisedPcnt19To24>
@@ -16152,6 +16504,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>546</Cases19To24>
         <CasesHospitalised19To24>14</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>5.11</CasesHospitalisedPcnt19To24>
@@ -16334,6 +16690,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>536</Cases19To24>
         <CasesHospitalised19To24>7</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.7</CasesHospitalisedPcnt19To24>
@@ -16516,6 +16876,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>480</Cases19To24>
         <CasesHospitalised19To24>5</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.07</CasesHospitalisedPcnt19To24>
@@ -16698,6 +17062,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>477</Cases19To24>
         <CasesHospitalised19To24>3</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.4</CasesHospitalisedPcnt19To24>
@@ -16880,6 +17248,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>472</Cases19To24>
         <CasesHospitalised19To24>4</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.7</CasesHospitalisedPcnt19To24>
@@ -17062,6 +17434,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>439</Cases19To24>
         <CasesHospitalised19To24>3</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.3</CasesHospitalisedPcnt19To24>
@@ -17244,6 +17620,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>415</Cases19To24>
         <CasesHospitalised19To24>3</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.3</CasesHospitalisedPcnt19To24>
@@ -17426,6 +17806,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>406</Cases19To24>
         <CasesHospitalised19To24>5</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.3</CasesHospitalisedPcnt19To24>
@@ -17608,6 +17992,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>439</Cases19To24>
         <CasesHospitalised19To24>3</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.3</CasesHospitalisedPcnt19To24>
@@ -17790,6 +18178,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>377</Cases19To24>
         <CasesHospitalised19To24>5</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.29</CasesHospitalisedPcnt19To24>
@@ -17972,6 +18364,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>379</Cases19To24>
         <CasesHospitalised19To24>3</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.36</CasesHospitalisedPcnt19To24>
@@ -18154,6 +18550,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>368</Cases19To24>
         <CasesHospitalised19To24>4</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.83</CasesHospitalisedPcnt19To24>
@@ -18336,6 +18736,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -18518,6 +18922,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>375</Cases19To24>
         <CasesHospitalised19To24>4</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>1.89</CasesHospitalisedPcnt19To24>
@@ -18700,6 +19108,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>373</Cases19To24>
         <CasesHospitalised19To24>5</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.16</CasesHospitalisedPcnt19To24>
@@ -18882,6 +19294,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>384</Cases19To24>
         <CasesHospitalised19To24>5</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.242152466</CasesHospitalisedPcnt19To24>
@@ -19064,6 +19480,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>416</Cases19To24>
         <CasesHospitalised19To24>6</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>2.45</CasesHospitalisedPcnt19To24>
@@ -19246,6 +19666,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>438</Cases19To24>
         <CasesHospitalised19To24>8</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.11</CasesHospitalisedPcnt19To24>
@@ -19428,6 +19852,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>455</Cases19To24>
         <CasesHospitalised19To24>8</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.33</CasesHospitalisedPcnt19To24>
@@ -19610,6 +20038,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>551</Cases19To24>
         <CasesHospitalised19To24>10</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.8</CasesHospitalisedPcnt19To24>
@@ -19792,6 +20224,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>618</Cases19To24>
         <CasesHospitalised19To24>9</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.26</CasesHospitalisedPcnt19To24>
@@ -19974,6 +20410,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>708</Cases19To24>
         <CasesHospitalised19To24>11</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.68</CasesHospitalisedPcnt19To24>
@@ -20156,6 +20596,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>820</Cases19To24>
         <CasesHospitalised19To24>19</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>5.74</CasesHospitalisedPcnt19To24>
@@ -20338,6 +20782,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>947</Cases19To24>
         <CasesHospitalised19To24>22</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.3</CasesHospitalisedPcnt19To24>
@@ -20520,6 +20968,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -20702,6 +21154,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
@@ -20884,6 +21340,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1320</Cases19To24>
         <CasesHospitalised19To24>24</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.12</CasesHospitalisedPcnt19To24>
@@ -21066,6 +21526,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1421</Cases19To24>
         <CasesHospitalised19To24>25</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.1</CasesHospitalisedPcnt19To24>
@@ -21248,6 +21712,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1643</Cases19To24>
         <CasesHospitalised19To24>25</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.22</CasesHospitalisedPcnt19To24>
@@ -21430,6 +21898,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>1917</Cases19To24>
         <CasesHospitalised19To24>27</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.19</CasesHospitalisedPcnt19To24>
@@ -21612,6 +22084,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>2179</Cases19To24>
         <CasesHospitalised19To24>29</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.43</CasesHospitalisedPcnt19To24>
@@ -21782,57 +22258,61 @@
         <DublinSouthWestRate>231.8</DublinSouthWestRate>
         <DublinWestAbs>454</DublinWestAbs>
         <DublinWestRate>292.3</DublinWestRate>
-        <Cases0To4>503</Cases0To4>
-        <CasesHospitalised0To4>5</CasesHospitalised0To4>
-        <CasesHospitalisedPcnt0To4>1.09</CasesHospitalisedPcnt0To4>
+        <Cases0To4>473</Cases0To4>
+        <CasesHospitalised0To4>3</CasesHospitalised0To4>
+        <CasesHospitalisedPcnt0To4>0.63</CasesHospitalisedPcnt0To4>
         <CasesAdmittedToIcu0To4>0</CasesAdmittedToIcu0To4>
-        <Cases13To18></Cases13To18>
-        <CasesHospitalised13To18></CasesHospitalised13To18>
-        <CasesHospitalisedPcnt13To18></CasesHospitalisedPcnt13To18>
-        <CasesAdmittedToIcu13To18></CasesAdmittedToIcu13To18>
-        <Cases15To24>1754</Cases15To24>
-        <CasesHospitalised15To24>14</CasesHospitalised15To24>
-        <CasesHospitalisedPcnt15To24>3.83</CasesHospitalisedPcnt15To24>
-        <CasesAdmittedToIcu15To24>0</CasesAdmittedToIcu15To24>
+        <Cases13To18>920</Cases13To18>
+        <CasesHospitalised13To18>10</CasesHospitalised13To18>
+        <CasesHospitalisedPcnt13To18>1.09</CasesHospitalisedPcnt13To18>
+        <CasesAdmittedToIcu13To18>0</CasesAdmittedToIcu13To18>
+        <Cases15To24></Cases15To24>
+        <CasesHospitalised15To24></CasesHospitalised15To24>
+        <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
+        <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14>2422</Cases19To14>
+        <CasesHospitalised19To14>34</CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14>1.4</CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14>0</CasesAdmittedToIcu19To14>
         <Cases19To24></Cases19To24>
         <CasesHospitalised19To24></CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24></CasesHospitalisedPcnt19To24>
         <CasesAdmittedToIcu19To24></CasesAdmittedToIcu19To24>
-        <Cases25To34>2784</Cases25To34>
-        <CasesHospitalised25To34>21</CasesHospitalised25To34>
-        <CasesHospitalisedPcnt25To34>5.74</CasesHospitalisedPcnt25To34>
+        <Cases25To34>3023</Cases25To34>
+        <CasesHospitalised25To34>46</CasesHospitalised25To34>
+        <CasesHospitalisedPcnt25To34>1.52</CasesHospitalisedPcnt25To34>
         <CasesAdmittedToIcu25To34>0</CasesAdmittedToIcu25To34>
-        <Cases35To44>1659</Cases35To44>
-        <CasesHospitalised35To44>28</CasesHospitalised35To44>
-        <CasesHospitalisedPcnt35To44>7.65</CasesHospitalisedPcnt35To44>
+        <Cases35To44>2364</Cases35To44>
+        <CasesHospitalised35To44>40</CasesHospitalised35To44>
+        <CasesHospitalisedPcnt35To44>1.69</CasesHospitalisedPcnt35To44>
         <CasesAdmittedToIcu35To44>1</CasesAdmittedToIcu35To44>
-        <Cases45To54>1661</Cases45To54>
-        <CasesHospitalised45To54>39</CasesHospitalised45To54>
-        <CasesHospitalisedPcnt45To54>10.66</CasesHospitalisedPcnt45To54>
-        <CasesAdmittedToIcu45To54>2</CasesAdmittedToIcu45To54>
-        <Cases55To64>1282</Cases55To64>
-        <CasesHospitalised55To64>51</CasesHospitalised55To64>
-        <CasesHospitalisedPcnt55To64>13.93</CasesHospitalisedPcnt55To64>
+        <Cases45To54>2107</Cases45To54>
+        <CasesHospitalised45To54>58</CasesHospitalised45To54>
+        <CasesHospitalisedPcnt45To54>2.75</CasesHospitalisedPcnt45To54>
+        <CasesAdmittedToIcu45To54>1</CasesAdmittedToIcu45To54>
+        <Cases55To64>1670</Cases55To64>
+        <CasesHospitalised55To64>55</CasesHospitalised55To64>
+        <CasesHospitalisedPcnt55To64>3.29</CasesHospitalisedPcnt55To64>
         <CasesAdmittedToIcu55To64>2</CasesAdmittedToIcu55To64>
-        <Cases5To12>1285</Cases5To12>
+        <Cases5To12>831</Cases5To12>
         <CasesHospitalised5To12>8</CasesHospitalised5To12>
-        <CasesHospitalisedPcnt5To12>2.19</CasesHospitalisedPcnt5To12>
+        <CasesHospitalisedPcnt5To12>0.98</CasesHospitalisedPcnt5To12>
         <CasesAdmittedToIcu5To12>0</CasesAdmittedToIcu5To12>
         <Cases5To14></Cases5To14>
         <CasesHospitalised5To14></CasesHospitalised5To14>
         <CasesHospitalisedPcnt5To14></CasesHospitalisedPcnt5To14>
         <CasesAdmittedToIcu5To14></CasesAdmittedToIcu5To14>
-        <Cases65To74>645</Cases65To74>
-        <CasesHospitalised65To74>73</CasesHospitalised65To74>
-        <CasesHospitalisedPcnt65To74>19.95</CasesHospitalisedPcnt65To74>
-        <CasesAdmittedToIcu65To74>12</CasesAdmittedToIcu65To74>
-        <Cases75To84>351</Cases75To84>
-        <CasesHospitalised75To84>82</CasesHospitalised75To84>
-        <CasesHospitalisedPcnt75To84>22.4</CasesHospitalisedPcnt75To84>
-        <CasesAdmittedToIcu75To84>5</CasesAdmittedToIcu75To84>
-        <Cases85Plus>219</Cases85Plus>
-        <CasesHospitalised85Plus>46</CasesHospitalised85Plus>
-        <CasesHospitalisedPcnt85Plus>12.57</CasesHospitalisedPcnt85Plus>
+        <Cases65To74>795</Cases65To74>
+        <CasesHospitalised65To74>70</CasesHospitalised65To74>
+        <CasesHospitalisedPcnt65To74>8.81</CasesHospitalisedPcnt65To74>
+        <CasesAdmittedToIcu65To74>5</CasesAdmittedToIcu65To74>
+        <Cases75To84>422</Cases75To84>
+        <CasesHospitalised75To84>89</CasesHospitalised75To84>
+        <CasesHospitalisedPcnt75To84>21.09</CasesHospitalisedPcnt75To84>
+        <CasesAdmittedToIcu75To84>2</CasesAdmittedToIcu75To84>
+        <Cases85Plus>272</Cases85Plus>
+        <CasesHospitalised85Plus>71</CasesHospitalised85Plus>
+        <CasesHospitalisedPcnt85Plus>26.1</CasesHospitalisedPcnt85Plus>
         <CasesAdmittedToIcu85Plus>0</CasesAdmittedToIcu85Plus>
         <CasesUnknown>3</CasesUnknown>
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
@@ -21976,6 +22456,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>2992</Cases19To24>
         <CasesHospitalised19To24>37</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>7.09</CasesHospitalisedPcnt19To24>
@@ -22158,6 +22642,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>3628</Cases19To24>
         <CasesHospitalised19To24>41</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>7.17</CasesHospitalisedPcnt19To24>
@@ -22340,6 +22828,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>4417</Cases19To24>
         <CasesHospitalised19To24>44</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>6.44</CasesHospitalisedPcnt19To24>
@@ -22522,6 +23014,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>5083</Cases19To24>
         <CasesHospitalised19To24>42</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>5.80</CasesHospitalisedPcnt19To24>
@@ -22704,6 +23200,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>6106</Cases19To24>
         <CasesHospitalised19To24>39</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>4.83</CasesHospitalisedPcnt19To24>
@@ -22886,6 +23386,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>6880</Cases19To24>
         <CasesHospitalised19To24>40</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>4.44</CasesHospitalisedPcnt19To24>
@@ -23068,6 +23572,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>7908</Cases19To24>
         <CasesHospitalised19To24>41</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.8</CasesHospitalisedPcnt19To24>
@@ -23250,6 +23758,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>8391</Cases19To24>
         <CasesHospitalised19To24>43</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>0.5</CasesHospitalisedPcnt19To24>
@@ -23432,6 +23944,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>9192</Cases19To24>
         <CasesHospitalised19To24>52</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>0</CasesHospitalisedPcnt19To24>
@@ -23614,6 +24130,10 @@
         <CasesHospitalised15To24></CasesHospitalised15To24>
         <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
         <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To14></Cases19To14>
+        <CasesHospitalised19To14></CasesHospitalised19To14>
+        <CasesHospitalisedPcnt19To14></CasesHospitalisedPcnt19To14>
+        <CasesAdmittedToIcu19To14></CasesAdmittedToIcu19To14>
         <Cases19To24>9714</Cases19To24>
         <CasesHospitalised19To24>55</CasesHospitalised19To24>
         <CasesHospitalisedPcnt19To24>3.8</CasesHospitalisedPcnt19To24>

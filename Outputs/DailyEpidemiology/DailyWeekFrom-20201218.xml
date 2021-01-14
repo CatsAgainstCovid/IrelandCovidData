@@ -232,82 +232,90 @@
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>5</CasesHospitalised>
-      <CasesHospitalisedPercent>1.09</CasesHospitalisedPercent>
+      <CasesHospitalised>3</CasesHospitalised>
+      <CasesHospitalisedPercent>0.63</CasesHospitalisedPercent>
       <Name>0To4</Name>
-      <NumberOfCases>503</NumberOfCases>
+      <NumberOfCases>473</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
       <CasesHospitalised>8</CasesHospitalised>
-      <CasesHospitalisedPercent>2.19</CasesHospitalisedPercent>
+      <CasesHospitalisedPercent>0.98</CasesHospitalisedPercent>
       <Name>5To12</Name>
-      <NumberOfCases>1285</NumberOfCases>
+      <NumberOfCases>831</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>14</CasesHospitalised>
-      <CasesHospitalisedPercent>3.83</CasesHospitalisedPercent>
-      <Name>15To24</Name>
-      <NumberOfCases>1754</NumberOfCases>
+      <CasesHospitalised>10</CasesHospitalised>
+      <CasesHospitalisedPercent>1.09</CasesHospitalisedPercent>
+      <Name>13To18</Name>
+      <NumberOfCases>920</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>21</CasesHospitalised>
-      <CasesHospitalisedPercent>5.74</CasesHospitalisedPercent>
-      <Name>25To34</Name>
-      <NumberOfCases>2784</NumberOfCases>
-    </HspcHospitalised>
-    <HspcHospitalised>
-      <CasesAdmittedToIcu>1</CasesAdmittedToIcu>
-      <CasesAdmittedToIcuPercent>4.55</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>28</CasesHospitalised>
-      <CasesHospitalisedPercent>7.65</CasesHospitalisedPercent>
-      <Name>35To44</Name>
-      <NumberOfCases>1659</NumberOfCases>
-    </HspcHospitalised>
-    <HspcHospitalised>
-      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
-      <CasesAdmittedToIcuPercent>9.09</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>39</CasesHospitalised>
-      <CasesHospitalisedPercent>10.66</CasesHospitalisedPercent>
-      <Name>45To54</Name>
-      <NumberOfCases>1661</NumberOfCases>
-    </HspcHospitalised>
-    <HspcHospitalised>
-      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
-      <CasesAdmittedToIcuPercent>9.09</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>51</CasesHospitalised>
-      <CasesHospitalisedPercent>13.93</CasesHospitalisedPercent>
-      <Name>55To64</Name>
-      <NumberOfCases>1282</NumberOfCases>
-    </HspcHospitalised>
-    <HspcHospitalised>
-      <CasesAdmittedToIcu>12</CasesAdmittedToIcu>
-      <CasesAdmittedToIcuPercent>54.55</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>73</CasesHospitalised>
-      <CasesHospitalisedPercent>19.95</CasesHospitalisedPercent>
-      <Name>65To74</Name>
-      <NumberOfCases>645</NumberOfCases>
-    </HspcHospitalised>
-    <HspcHospitalised>
-      <CasesAdmittedToIcu>5</CasesAdmittedToIcu>
-      <CasesAdmittedToIcuPercent>22.73</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>82</CasesHospitalised>
-      <CasesHospitalisedPercent>22.4</CasesHospitalisedPercent>
-      <Name>75To84</Name>
-      <NumberOfCases>351</NumberOfCases>
+      <CasesHospitalised>34</CasesHospitalised>
+      <CasesHospitalisedPercent>1.4</CasesHospitalisedPercent>
+      <Name>19To14</Name>
+      <NumberOfCases>2422</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
       <CasesHospitalised>46</CasesHospitalised>
-      <CasesHospitalisedPercent>12.57</CasesHospitalisedPercent>
+      <CasesHospitalisedPercent>1.52</CasesHospitalisedPercent>
+      <Name>25To34</Name>
+      <NumberOfCases>3023</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>1</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0.04</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>40</CasesHospitalised>
+      <CasesHospitalisedPercent>1.69</CasesHospitalisedPercent>
+      <Name>35To44</Name>
+      <NumberOfCases>2364</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>1</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0.05</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>58</CasesHospitalised>
+      <CasesHospitalisedPercent>2.75</CasesHospitalisedPercent>
+      <Name>45To54</Name>
+      <NumberOfCases>2107</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0.12</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>55</CasesHospitalised>
+      <CasesHospitalisedPercent>3.29</CasesHospitalisedPercent>
+      <Name>55To64</Name>
+      <NumberOfCases>1670</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>5</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0.63</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>70</CasesHospitalised>
+      <CasesHospitalisedPercent>8.81</CasesHospitalisedPercent>
+      <Name>65To74</Name>
+      <NumberOfCases>795</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0.47</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>89</CasesHospitalised>
+      <CasesHospitalisedPercent>21.09</CasesHospitalisedPercent>
+      <Name>75To84</Name>
+      <NumberOfCases>422</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>71</CasesHospitalised>
+      <CasesHospitalisedPercent>26.1</CasesHospitalisedPercent>
       <Name>85Plus</Name>
-      <NumberOfCases>219</NumberOfCases>
+      <NumberOfCases>272</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
