@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HseSchoolsSummary xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CovidStats.SchoolsSummary">
+  <AllFacilityTypesResultsSummary>
+    <HseSchoolsFacilityValue>
+      <DetectedPercent>4.0</DetectedPercent>
+      <Name>Childcare</Name>
+      <NoDetected>223</NoDetected>
+      <NoFacilities>245</NoFacilities>
+      <NoNotDetected>5294</NoNotDetected>
+      <NoTested>5530</NoTested>
+    </HseSchoolsFacilityValue>
+    <HseSchoolsFacilityValue>
+      <DetectedPercent>2.4</DetectedPercent>
+      <Name>Primary</Name>
+      <NoDetected>379</NoDetected>
+      <NoFacilities>519</NoFacilities>
+      <NoNotDetected>15185</NoNotDetected>
+      <NoTested>15651</NoTested>
+    </HseSchoolsFacilityValue>
+    <HseSchoolsFacilityValue>
+      <DetectedPercent>1.9</DetectedPercent>
+      <Name>Post Primary*</Name>
+      <NoDetected>127</NoDetected>
+      <NoFacilities>278</NoFacilities>
+      <NoNotDetected>6600</NoNotDetected>
+      <NoTested>6747</NoTested>
+    </HseSchoolsFacilityValue>
+    <HseSchoolsFacilityValue>
+      <DetectedPercent>3.4</DetectedPercent>
+      <Name>Special Education</Name>
+      <NoDetected>32</NoDetected>
+      <NoFacilities>36</NoFacilities>
+      <NoNotDetected>915</NoNotDetected>
+      <NoTested>948</NoTested>
+    </HseSchoolsFacilityValue>
+  </AllFacilityTypesResultsSummary>
+  <Childcare>
+    <MassTesting>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>3.0</DetectedPercent>
+        <Name>No Not Detected Childcare facilities</Name>
+        <NoDetected>8</NoDetected>
+        <NoFacilities>21</NoFacilities>
+        <NoNotDetected>260</NoNotDetected>
+        <NoTested>268</NoTested>
+      </HseSchoolsFacilityValue>
+    </MassTesting>
+    <Testing>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>4.0</DetectedPercent>
+        <Name>Childcare facilities</Name>
+        <NoDetected>223</NoDetected>
+        <NoFacilities>245</NoFacilities>
+        <NoNotDetected>5294</NoNotDetected>
+        <NoTested>5530</NoTested>
+      </HseSchoolsFacilityValue>
+    </Testing>
+  </Childcare>
+  <ChildcareFacilityByWeek i:nil="true" />
+  <Schools>
+    <MassTesting>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>1.8</DetectedPercent>
+        <Name>Primary</Name>
+        <NoDetected>31</NoDetected>
+        <NoFacilities>71</NoFacilities>
+        <NoNotDetected>1710</NoNotDetected>
+        <NoTested>1745</NoTested>
+      </HseSchoolsFacilityValue>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>1.6</DetectedPercent>
+        <Name>Post Primary</Name>
+        <NoDetected>7</NoDetected>
+        <NoFacilities>43</NoFacilities>
+        <NoNotDetected>422</NoNotDetected>
+        <NoTested>430</NoTested>
+      </HseSchoolsFacilityValue>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>0.0</DetectedPercent>
+        <Name>Special Education</Name>
+        <NoDetected>0</NoDetected>
+        <NoFacilities>0</NoFacilities>
+        <NoNotDetected>0</NoNotDetected>
+        <NoTested>0</NoTested>
+      </HseSchoolsFacilityValue>
+    </MassTesting>
+    <Testing>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>2.4</DetectedPercent>
+        <Name>Primary</Name>
+        <NoDetected>379</NoDetected>
+        <NoFacilities>519</NoFacilities>
+        <NoNotDetected>15185</NoNotDetected>
+        <NoTested>15651</NoTested>
+      </HseSchoolsFacilityValue>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>1.9</DetectedPercent>
+        <Name>Post Primary*</Name>
+        <NoDetected>127</NoDetected>
+        <NoFacilities>278</NoFacilities>
+        <NoNotDetected>6600</NoNotDetected>
+        <NoTested>6747</NoTested>
+      </HseSchoolsFacilityValue>
+      <HseSchoolsFacilityValue>
+        <DetectedPercent>3.4</DetectedPercent>
+        <Name>Special Education</Name>
+        <NoDetected>32</NoDetected>
+        <NoFacilities>36</NoFacilities>
+        <NoNotDetected>915</NoNotDetected>
+        <NoTested>948</NoTested>
+      </HseSchoolsFacilityValue>
+    </Testing>
+  </Schools>
+  <SourceFileName>covid19-schools-mass-testing-report-week-48.pdf</SourceFileName>
+  <SpecialEducationFacilityByWeek i:nil="true" />
+  <Values>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>28876</CumulativeToDate>
+      <Name>Number Tested</Name>
+      <WeekValue>2446</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>761</CumulativeToDate>
+      <Name>Number of Detected Cases1</Name>
+      <WeekValue>46</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>1</CumulativeToDate>
+      <Name>Number of Detected Cases1</Name>
+      <WeekValue>761</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>2.6</CumulativeToDate>
+      <Name>Detection Rate %</Name>
+      <WeekValue>1.9</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>640</CumulativeToDate>
+      <Name>Detected 0-17</Name>
+      <WeekValue>43</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>121</CumulativeToDate>
+      <Name>Detected 18+</Name>
+      <WeekValue>0</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>1078</CumulativeToDate>
+      <Name>No of Facilities Tested</Name>
+      <WeekValue>136</WeekValue>
+    </HseSchoolsSummaryValue>
+    <HseSchoolsSummaryValue>
+      <CumulativeToDate>284</CumulativeToDate>
+      <Name>Facilities with Detected Case</Name>
+      <WeekValue>23</WeekValue>
+    </HseSchoolsSummaryValue>
+  </Values>
+  <Week>48</Week>
+  <Year>2020</Year>
+</HseSchoolsSummary>
