@@ -1,6 +1,7 @@
 <Weeks>
     <Week>
         <Number>47</Number>
+        <SourceFileName>covid-19-schools-mass-testing-report-week-47.pdf</SourceFileName>
         <OverallDetected0-17Week>34</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>598</OverallDetected0-17Cumulative>
         <OverallDetected18Week>6</OverallDetected18Week>
@@ -65,19 +66,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>0</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>39</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>0.0</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>233</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>5260</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>215</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>5025</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>4.1</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>38</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>658</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>9</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>649</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>1.4</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>233</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>5260</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>215</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>5025</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>4.1</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>38</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>658</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>9</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>649</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>1.4</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>48</Number>
+        <SourceFileName>covid19-schools-mass-testing-report-week-48.pdf</SourceFileName>
         <OverallDetected0-17Week>43</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>640</OverallDetected0-17Cumulative>
         <OverallDetected18Week>0</OverallDetected18Week>
@@ -142,19 +144,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>0</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>0</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>0.0</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>245</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>5530</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>223</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>5294</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>4.0</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>21</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>268</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>8</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>260</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>3.0</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>245</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>5530</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>223</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>5294</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>4.0</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>21</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>268</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>8</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>260</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>3.0</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>49</Number>
+        <SourceFileName>covid-19-schools-mass-testing-report-week-49.pdf</SourceFileName>
         <OverallDetected0-17Week>69</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>709</OverallDetected0-17Cumulative>
         <OverallDetected18Week>8</OverallDetected18Week>
@@ -219,19 +222,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>0</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>42</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>0</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>269</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>6065</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>240</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>5772</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>4.0</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>29</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>505</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>17</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>487</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>3.4</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>269</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>6065</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>240</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>5772</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>4.0</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>29</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>505</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>17</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>487</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>3.4</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>50</Number>
+        <SourceFileName>covid-19-schools-mass-testing-report-week-50.pdf</SourceFileName>
         <OverallDetected0-17Week>57</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>767</OverallDetected0-17Cumulative>
         <OverallDetected18Week>16</OverallDetected18Week>
@@ -296,19 +300,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>0</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>60</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>1.6</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>289</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>6639</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>251</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>6366</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>3.8</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>32</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>605</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>11</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>594</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>1.8</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>289</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>6639</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>251</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>6366</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>3.8</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>32</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>605</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>11</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>594</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>1.8</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>51</Number>
+        <SourceFileName>covid-19-schools-and-childcare-facilities-mass-testing-report-week-51.pdf</SourceFileName>
         <OverallDetected0-17Week>106</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>873</OverallDetected0-17Cumulative>
         <OverallDetected18Week>22</OverallDetected18Week>
@@ -373,19 +378,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>10</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>184</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>5.1</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>325</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>7222</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>286</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>6827</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>4.0</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>36</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>479</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>34</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>444</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>7.1</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>325</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>7222</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>286</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>6827</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>4.0</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>36</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>479</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>34</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>444</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>7.1</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>53</Number>
+        <SourceFileName>covid-19-schools-and-childcare-facilities-mass-testing-report-weeks-52-and-53.pdf</SourceFileName>
         <OverallDetected0-17Week>262</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>1135</OverallDetected0-17Cumulative>
         <OverallDetected18Week>43</OverallDetected18Week>
@@ -450,19 +456,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>5</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>82</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>5.7</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>390</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>8774</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>404</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>8351</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>4.6</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>97</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>1636</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>118</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>1514</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>7.2</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>390</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>8774</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>404</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>8351</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>4.6</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>97</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>1636</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>118</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>1514</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>7.2</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>54</Number>
+        <SourceFileName>covid-19-schools-and-childcare-facilities-mass-testing-report-week-1-2021.pdf</SourceFileName>
         <OverallDetected0-17Week>6</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>1143</OverallDetected0-17Cumulative>
         <OverallDetected18Week>7</OverallDetected18Week>
@@ -527,19 +534,20 @@
         <SchoolsMassTestingSpecialEducationNoDetected>6</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>122</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>4.7</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>399</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>8876</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>408</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>8450</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>4.6</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>19</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>94</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>0</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>90</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>3.2</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>399</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>8876</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>408</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>8450</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>4.6</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>19</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>94</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>0</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>90</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>3.2</ChildcareMassTestingDetectedPercent>
     </Week>
     <Week>
         <Number>55</Number>
+        <SourceFileName>covid-19-schools-and-childcare-facilities-mass-testing-report-week-2-2021.pdf</SourceFileName>
         <OverallDetected0-17Week>51</OverallDetected0-17Week>
         <OverallDetected0-17Cumulative>1196</OverallDetected0-17Cumulative>
         <OverallDetected18Week>23</OverallDetected18Week>
@@ -604,15 +612,15 @@
         <SchoolsMassTestingSpecialEducationNoDetected>0</SchoolsMassTestingSpecialEducationNoDetected>
         <SchoolsMassTestingSpecialEducationNoNotDetected>129</SchoolsMassTestingSpecialEducationNoNotDetected>
         <SchoolsMassTestingSpecialEducationDetectedPercent>2.3</SchoolsMassTestingSpecialEducationDetectedPercent>
-        <ChildcareTestingChildcarefacilitiesNoFacilities>447</ChildcareTestingChildcarefacilitiesNoFacilities>
-        <ChildcareTestingChildcarefacilitiesNoTested>9592</ChildcareTestingChildcarefacilitiesNoTested>
-        <ChildcareTestingChildcarefacilitiesNoDetected>480</ChildcareTestingChildcarefacilitiesNoDetected>
-        <ChildcareTestingChildcarefacilitiesNoNotDetected>9007</ChildcareTestingChildcarefacilitiesNoNotDetected>
-        <ChildcareTestingChildcarefacilitiesDetectedPercent>5.0</ChildcareTestingChildcarefacilitiesDetectedPercent>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>59</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoFacilities>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>632</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoTested>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>69</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>545</ChildcareMassTestingNoNotDetectedChildcarefacilitiesNoNotDetected>
-        <ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>10.9</ChildcareMassTestingNoNotDetectedChildcarefacilitiesDetectedPercent>
+        <ChildcareTestingNoFacilities>447</ChildcareTestingNoFacilities>
+        <ChildcareTestingNoTested>9592</ChildcareTestingNoTested>
+        <ChildcareTestingNoDetected>480</ChildcareTestingNoDetected>
+        <ChildcareTestingNoNotDetected>9007</ChildcareTestingNoNotDetected>
+        <ChildcareTestingDetectedPercent>5.0</ChildcareTestingDetectedPercent>
+        <ChildcareMassTestingNoFacilities>59</ChildcareMassTestingNoFacilities>
+        <ChildcareMassTestingNoTested>632</ChildcareMassTestingNoTested>
+        <ChildcareMassTestingNoDetected>69</ChildcareMassTestingNoDetected>
+        <ChildcareMassTestingNoNotDetected>545</ChildcareMassTestingNoNotDetected>
+        <ChildcareMassTestingDetectedPercent>10.9</ChildcareMassTestingDetectedPercent>
     </Week>
 </Weeks>

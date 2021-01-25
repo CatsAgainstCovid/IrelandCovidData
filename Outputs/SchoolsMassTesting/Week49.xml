@@ -19,7 +19,7 @@
     </HseSchoolsFacilityValue>
     <HseSchoolsFacilityValue>
       <DetectedPercent>1.8</DetectedPercent>
-      <Name>Post Primary*</Name>
+      <Name>PostPrimary</Name>
       <NoDetected>132</NoDetected>
       <NoFacilities>290</NoFacilities>
       <NoNotDetected>7186</NoNotDetected>
@@ -27,7 +27,7 @@
     </HseSchoolsFacilityValue>
     <HseSchoolsFacilityValue>
       <DetectedPercent>3.2</DetectedPercent>
-      <Name>Special Education</Name>
+      <Name>SpecialEducation</Name>
       <NoDetected>32</NoDetected>
       <NoFacilities>40</NoFacilities>
       <NoNotDetected>957</NoNotDetected>
@@ -38,7 +38,7 @@
     <MassTesting>
       <HseSchoolsFacilityValue>
         <DetectedPercent>3.4</DetectedPercent>
-        <Name>No Not Detected Childcare facilities</Name>
+        <Name></Name>
         <NoDetected>17</NoDetected>
         <NoFacilities>29</NoFacilities>
         <NoNotDetected>487</NoNotDetected>
@@ -48,7 +48,7 @@
     <Testing>
       <HseSchoolsFacilityValue>
         <DetectedPercent>4.0</DetectedPercent>
-        <Name>Childcare facilities</Name>
+        <Name></Name>
         <NoDetected>240</NoDetected>
         <NoFacilities>269</NoFacilities>
         <NoNotDetected>5772</NoNotDetected>
@@ -61,7 +61,7 @@
     <MassTesting>
       <HseSchoolsFacilityValue>
         <DetectedPercent>3.2</DetectedPercent>
-        <Name>Primary*</Name>
+        <Name>Primary</Name>
         <NoDetected>55</NoDetected>
         <NoFacilities>61</NoFacilities>
         <NoNotDetected>1674</NoNotDetected>
@@ -69,7 +69,7 @@
       </HseSchoolsFacilityValue>
       <HseSchoolsFacilityValue>
         <DetectedPercent>0.8</DetectedPercent>
-        <Name>Post Primary*</Name>
+        <Name>PostPrimary</Name>
         <NoDetected>5</NoDetected>
         <NoFacilities>42</NoFacilities>
         <NoNotDetected>590</NoNotDetected>
@@ -77,7 +77,7 @@
       </HseSchoolsFacilityValue>
       <HseSchoolsFacilityValue>
         <DetectedPercent>0</DetectedPercent>
-        <Name>Special Education**</Name>
+        <Name>SpecialEducation</Name>
         <NoDetected>0</NoDetected>
         <NoFacilities>4</NoFacilities>
         <NoNotDetected>42</NoNotDetected>
@@ -95,7 +95,7 @@
       </HseSchoolsFacilityValue>
       <HseSchoolsFacilityValue>
         <DetectedPercent>1.8</DetectedPercent>
-        <Name>Post Primary*</Name>
+        <Name>PostPrimary</Name>
         <NoDetected>132</NoDetected>
         <NoFacilities>290</NoFacilities>
         <NoNotDetected>7186</NoNotDetected>
@@ -103,7 +103,7 @@
       </HseSchoolsFacilityValue>
       <HseSchoolsFacilityValue>
         <DetectedPercent>3.2</DetectedPercent>
-        <Name>Special Education</Name>
+        <Name>SpecialEducation</Name>
         <NoDetected>32</NoDetected>
         <NoFacilities>40</NoFacilities>
         <NoNotDetected>957</NoNotDetected>
