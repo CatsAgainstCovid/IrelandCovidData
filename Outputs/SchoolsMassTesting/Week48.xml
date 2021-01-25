@@ -61,7 +61,7 @@
     <MassTesting>
       <HseSchoolsFacilityValue>
         <DetectedPercent>1.8</DetectedPercent>
-        <Name>Primary</Name>
+        <Name>Primary*</Name>
         <NoDetected>31</NoDetected>
         <NoFacilities>71</NoFacilities>
         <NoNotDetected>1710</NoNotDetected>
@@ -69,7 +69,7 @@
       </HseSchoolsFacilityValue>
       <HseSchoolsFacilityValue>
         <DetectedPercent>1.6</DetectedPercent>
-        <Name>Post Primary</Name>
+        <Name>Post Primary*</Name>
         <NoDetected>7</NoDetected>
         <NoFacilities>43</NoFacilities>
         <NoNotDetected>422</NoNotDetected>
@@ -77,7 +77,7 @@
       </HseSchoolsFacilityValue>
       <HseSchoolsFacilityValue>
         <DetectedPercent>0.0</DetectedPercent>
-        <Name>Special Education</Name>
+        <Name>Special Education**</Name>
         <NoDetected>0</NoDetected>
         <NoFacilities>0</NoFacilities>
         <NoNotDetected>0</NoNotDetected>
