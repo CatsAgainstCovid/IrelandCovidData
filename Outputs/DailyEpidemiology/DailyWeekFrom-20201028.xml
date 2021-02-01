@@ -9,6 +9,10 @@
       <Absolute>562</Absolute>
       <Percent>8.14</Percent>
     </Age13To18>
+    <Age15To24>
+      <Absolute>0</Absolute>
+      <Percent>0</Percent>
+    </Age15To24>
     <Age19To24>
       <Absolute>842</Absolute>
       <Percent>12.2</Percent>
@@ -33,6 +37,10 @@
       <Absolute>567</Absolute>
       <Percent>8.21</Percent>
     </Age5To12>
+    <Age5To14>
+      <Absolute>0</Absolute>
+      <Percent>0</Percent>
+    </Age5To14>
     <Age65To74>
       <Absolute>421</Absolute>
       <Percent>6.1</Percent>
@@ -388,7 +396,7 @@
       <Percent>0.17</Percent>
     </Unknown>
   </SexCharacteristics>
-  <SourceFileName>COVID-19_14_day_epidemiology_report_20201111 - website.pdf</SourceFileName>
+  <SourceFileName>COVID-19_14_day_epidemiology_report_20201111 - website 2.pdf</SourceFileName>
   <SymptomStatusAtTimeOfTestCharacteristics>
     <No>
       <Absolute>1784</Absolute>

@@ -9,6 +9,10 @@
       <Absolute>0</Absolute>
       <Percent>0</Percent>
     </Age13To18>
+    <Age15To24>
+      <Absolute>3768</Absolute>
+      <Percent>27.19</Percent>
+    </Age15To24>
     <Age19To24>
       <Absolute>0</Absolute>
       <Percent>0</Percent>
@@ -33,6 +37,10 @@
       <Absolute>0</Absolute>
       <Percent>0</Percent>
     </Age5To12>
+    <Age5To14>
+      <Absolute>1119</Absolute>
+      <Percent>8.07</Percent>
+    </Age5To14>
     <Age65To74>
       <Absolute>641</Absolute>
       <Percent>4.63</Percent>
@@ -138,10 +146,10 @@
       <NumberOfCases>190</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
-      <CasesAdmittedToIcu>2</CasesAdmittedToIcu>
-      <CasesAdmittedToIcuPercent>0.59</CasesAdmittedToIcuPercent>
-      <CasesHospitalised>0</CasesHospitalised>
-      <CasesHospitalisedPercent>0</CasesHospitalisedPercent>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>2</CasesHospitalised>
+      <CasesHospitalisedPercent>0.59</CasesHospitalisedPercent>
       <Name>Unknown</Name>
       <NumberOfCases>6</NumberOfCases>
     </HspcHospitalised>

@@ -9,6 +9,10 @@
       <Absolute>0</Absolute>
       <Percent>0</Percent>
     </Age13To18>
+    <Age15To24>
+      <Absolute>3751</Absolute>
+      <Percent>25.42</Percent>
+    </Age15To24>
     <Age19To24>
       <Absolute>0</Absolute>
       <Percent>0</Percent>
@@ -33,6 +37,10 @@
       <Absolute>0</Absolute>
       <Percent>0</Percent>
     </Age5To12>
+    <Age5To14>
+      <Absolute>1376</Absolute>
+      <Percent>9.32</Percent>
+    </Age5To14>
     <Age65To74>
       <Absolute>729</Absolute>
       <Percent>4.94</Percent>
