@@ -2184,7 +2184,7 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
     </Day>
     <Day>
-        <SourceFileName>COVID-19_14_day_epidemiology_report_website__20200916 (1).pdf</SourceFileName>
+        <SourceFileName>COVID-19_14_day_epidemiology_report_website__20200916.pdf</SourceFileName>
         <FromDate>02/09/2020</FromDate>
         <ToDate>15/09/2020</ToDate>
         <PreparedDate>16/09/2020</PreparedDate>
@@ -11102,7 +11102,7 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
     </Day>
     <Day>
-        <SourceFileName>COVID-19_14_day_epidemiology_report_20201104 -Website.pdf</SourceFileName>
+        <SourceFileName>COVID-19_14_day_epidemiology_report_20201104 -Website (1).pdf</SourceFileName>
         <FromDate>21/10/2020</FromDate>
         <ToDate>03/11/2020</ToDate>
         <PreparedDate>04/11/2020</PreparedDate>
@@ -12376,7 +12376,7 @@
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
     </Day>
     <Day>
-        <SourceFileName>COVID-19_14_day_epidemiology_report_20201111 - website.pdf</SourceFileName>
+        <SourceFileName>COVID-19_14_day_epidemiology_report_20201111 - website 2.pdf</SourceFileName>
         <FromDate>28/10/2020</FromDate>
         <ToDate>10/11/2020</ToDate>
         <PreparedDate>11/11/2020</PreparedDate>
@@ -27659,6 +27659,188 @@
         <CasesHospitalisedPcnt85Plus>16.45</CasesHospitalisedPcnt85Plus>
         <CasesAdmittedToIcu85Plus>0</CasesAdmittedToIcu85Plus>
         <CasesUnknown>16</CasesUnknown>
+        <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
+        <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
+        <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
+    </Day>
+    <Day>
+        <SourceFileName>COVID-19_14_day_epidemiology_report_20200203 Website.pdf</SourceFileName>
+        <FromDate>20/01/2021</FromDate>
+        <ToDate>02/02/2021</ToDate>
+        <PreparedDate>03/02/2021</PreparedDate>
+        <TotalConfirmedCasesAbs>20197</TotalConfirmedCasesAbs>
+        <TotalConfirmedCasesPcnt>100</TotalConfirmedCasesPcnt>
+        <SexMaleFemaleRatio>0.89</SexMaleFemaleRatio>
+        <SexMaleAbs>9508</SexMaleAbs>
+        <SexMalePcnt>47.08</SexMalePcnt>
+        <SexFemaleAbs>10658</SexFemaleAbs>
+        <SexFemalePcnt>52.77</SexFemalePcnt>
+        <SexUnknownAbs>31</SexUnknownAbs>
+        <SexUnknownPcnt>0.15</SexUnknownPcnt>
+        <AgeMedian>41</AgeMedian>
+        <AgeMean>43</AgeMean>
+        <Age0To4Abs>557</Age0To4Abs>
+        <Age0To4Pcnt>2.76</Age0To4Pcnt>
+        <Age5To12Abs>781</Age5To12Abs>
+        <Age5To12Pcnt>3.87</Age5To12Pcnt>
+        <Age13To18Abs>1054</Age13To18Abs>
+        <Age13To18Pcnt>5.22</Age13To18Pcnt>
+        <Age19To24Abs>2065</Age19To24Abs>
+        <Age19To24Pcnt>10.22</Age19To24Pcnt>
+        <Age25To34Abs>3441</Age25To34Abs>
+        <Age25To34Pcnt>17.04</Age25To34Pcnt>
+        <Age35To44Abs>3451</Age35To44Abs>
+        <Age35To44Pcnt>17.09</Age35To44Pcnt>
+        <Age45To54Abs>3165</Age45To54Abs>
+        <Age45To54Pcnt>15.67</Age45To54Pcnt>
+        <Age55To64Abs>2293</Age55To64Abs>
+        <Age55To64Pcnt>11.35</Age55To64Pcnt>
+        <Age65To74Abs>1192</Age65To74Abs>
+        <Age65To74Pcnt>5.9</Age65To74Pcnt>
+        <Age75To84Abs>1147</Age75To84Abs>
+        <Age75To84Pcnt>5.68</Age75To84Pcnt>
+        <Age85PlusAbs>1040</Age85PlusAbs>
+        <Age85PlusPcnt>5.15</Age85PlusPcnt>
+        <AgeUnknownAbs>11</AgeUnknownAbs>
+        <AgeUnknownPcnt>0.05</AgeUnknownPcnt>        <CHO1Abs>1717</CHO1Abs>
+        <CHO1Rate>438.8</CHO1Rate>
+        <CHO2Abs>1710</CHO2Abs>
+        <CHO2Rate>377.4</CHO2Rate>
+        <CHO3Abs>1274</CHO3Abs>
+        <CHO3Rate>330.9</CHO3Rate>
+        <CHO4Abs>2117</CHO4Abs>
+        <CHO4Rate>306.6</CHO4Rate>
+        <CHO5Abs>2339</CHO5Abs>
+        <CHO5Rate>458.3</CHO5Rate>
+        <CHO6Abs>1621</CHO6Abs>
+        <CHO6Rate>423.1</CHO6Rate>
+        <CHO7Abs>3049</CHO7Abs>
+        <CHO7Rate>430.8</CHO7Rate>
+        <CHO8Abs>2722</CHO8Abs>
+        <CHO8Rate>439.5</CHO8Rate>
+        <CHO9Abs>3646</CHO9Abs>
+        <CHO9Rate>586.7</CHO9Rate>
+        <CarlowAbs>334</CarlowAbs>
+        <CarlowRate>586.7</CarlowRate>
+        <CavanAbs>270</CavanAbs>
+        <CavanRate>354.4</CavanRate>
+        <ClareAbs>280</ClareAbs>
+        <ClareRate>235.7</ClareRate>
+        <CorkAbs>1839</CorkAbs>
+        <CorkRate>338.8</CorkRate>
+        <DonegalAbs>630</DonegalAbs>
+        <DonegalRate>395.7</DonegalRate>
+        <DublinAbs>7065</DublinAbs>
+        <DublinRate>524.4</DublinRate>
+        <GalwayAbs>1006</GalwayAbs>
+        <GalwayRate>389.8</GalwayRate>
+        <KerryAbs>278</KerryAbs>
+        <KerryRate>188.2</KerryRate>
+        <KildareAbs>815</KildareAbs>
+        <KildareRate>366.3</KildareRate>
+        <KilkennyAbs>199</KilkennyAbs>
+        <KilkennyRate>200.5</KilkennyRate>
+        <LaoisAbs>261</LaoisAbs>
+        <LaoisRate>308.2</LaoisRate>
+        <LeitrimAbs>61</LeitrimAbs>
+        <LeitrimRate>190.4</LeitrimRate>
+        <LimerickAbs>740</LimerickAbs>
+        <LimerickRate>379.7</LimerickRate>
+        <LongfordAbs>147</LongfordAbs>
+        <LongfordRate>359.7</LongfordRate>
+        <LouthAbs>835</LouthAbs>
+        <LouthRate>647.9</LouthRate>
+        <MayoAbs>596</MayoAbs>
+        <MayoRate>456.7</MayoRate>
+        <MeathAbs>851</MeathAbs>
+        <MeathRate>436.3</MeathRate>
+        <MonaghanAbs>549</MonaghanAbs>
+        <MonaghanRate>894.3</MonaghanRate>
+        <OffalyAbs>361</OffalyAbs>
+        <OffalyRate>463.1</OffalyRate>
+        <RoscommonAbs>108</RoscommonAbs>
+        <RoscommonRate>167.3</RoscommonRate>
+        <SligoAbs>215</SligoAbs>
+        <SligoRate>328.1</SligoRate>
+        <TipperaryAbs>496</TipperaryAbs>
+        <TipperaryRate>310.9</TipperaryRate>
+        <WaterfordAbs>746</WaterfordAbs>
+        <WaterfordRate>642.1</WaterfordRate>
+        <WestmeathAbs>245</WestmeathAbs>
+        <WestmeathRate>276.0</WestmeathRate>
+        <WexfordAbs>832</WexfordAbs>
+        <WexfordRate>555.7</WexfordRate>
+        <WicklowAbs>438</WicklowAbs>
+        <WicklowRate>307.5</WicklowRate>
+        <DublinNorthAbs>1062</DublinNorthAbs>
+        <DublinNorthRate>409.8</DublinNorthRate>
+        <DublinNorthCentralAbs>1075</DublinNorthCentralAbs>
+        <DublinNorthCentralRate>695.4</DublinNorthCentralRate>
+        <DublinNorthWestAbs>1509</DublinNorthWestAbs>
+        <DublinNorthWestRate>726.6</DublinNorthWestRate>
+        <DublinSouthAbs>432</DublinSouthAbs>
+        <DublinSouthRate>317.5</DublinSouthRate>
+        <DublinSouthCityAbs>532</DublinSouthCityAbs>
+        <DublinSouthCityRate>354.8</DublinSouthCityRate>
+        <DublinSouthEastAbs>764</DublinSouthEastAbs>
+        <DublinSouthEastRate>617.6</DublinSouthEastRate>
+        <DublinSouthWestAbs>670</DublinSouthWestAbs>
+        <DublinSouthWestRate>416.4</DublinSouthWestRate>
+        <DublinWestAbs>1019</DublinWestAbs>
+        <DublinWestRate>656.0</DublinWestRate>
+        <Cases0To4>557</Cases0To4>
+        <CasesHospitalised0To4>17</CasesHospitalised0To4>
+        <CasesHospitalisedPcnt0To4>1.25</CasesHospitalisedPcnt0To4>
+        <CasesAdmittedToIcu0To4>0</CasesAdmittedToIcu0To4>
+        <Cases13To18>1054</Cases13To18>
+        <CasesHospitalised13To18>19</CasesHospitalised13To18>
+        <CasesHospitalisedPcnt13To18>1.40</CasesHospitalisedPcnt13To18>
+        <CasesAdmittedToIcu13To18>1</CasesAdmittedToIcu13To18>
+        <Cases15To24></Cases15To24>
+        <CasesHospitalised15To24></CasesHospitalised15To24>
+        <CasesHospitalisedPcnt15To24></CasesHospitalisedPcnt15To24>
+        <CasesAdmittedToIcu15To24></CasesAdmittedToIcu15To24>
+        <Cases19To24>2065</Cases19To24>
+        <CasesHospitalised19To24>58</CasesHospitalised19To24>
+        <CasesHospitalisedPcnt19To24>4.26</CasesHospitalisedPcnt19To24>
+        <CasesAdmittedToIcu19To24>1</CasesAdmittedToIcu19To24>
+        <Cases25To34>3441</Cases25To34>
+        <CasesHospitalised25To34>118</CasesHospitalised25To34>
+        <CasesHospitalisedPcnt25To34>8.66</CasesHospitalisedPcnt25To34>
+        <CasesAdmittedToIcu25To34>3</CasesAdmittedToIcu25To34>
+        <Cases35To44>3451</Cases35To44>
+        <CasesHospitalised35To44>96</CasesHospitalised35To44>
+        <CasesHospitalisedPcnt35To44>7.05</CasesHospitalisedPcnt35To44>
+        <CasesAdmittedToIcu35To44>6</CasesAdmittedToIcu35To44>
+        <Cases45To54>3165</Cases45To54>
+        <CasesHospitalised45To54>140</CasesHospitalised45To54>
+        <CasesHospitalisedPcnt45To54>10.28</CasesHospitalisedPcnt45To54>
+        <CasesAdmittedToIcu45To54>6</CasesAdmittedToIcu45To54>
+        <Cases55To64>2293</Cases55To64>
+        <CasesHospitalised55To64>167</CasesHospitalised55To64>
+        <CasesHospitalisedPcnt55To64>12.26</CasesHospitalisedPcnt55To64>
+        <CasesAdmittedToIcu55To64>15</CasesAdmittedToIcu55To64>
+        <Cases5To12>781</Cases5To12>
+        <CasesHospitalised5To12>13</CasesHospitalised5To12>
+        <CasesHospitalisedPcnt5To12>0.95</CasesHospitalisedPcnt5To12>
+        <CasesAdmittedToIcu5To12>0</CasesAdmittedToIcu5To12>
+        <Cases5To14></Cases5To14>
+        <CasesHospitalised5To14></CasesHospitalised5To14>
+        <CasesHospitalisedPcnt5To14></CasesHospitalisedPcnt5To14>
+        <CasesAdmittedToIcu5To14></CasesAdmittedToIcu5To14>
+        <Cases65To74>1192</Cases65To74>
+        <CasesHospitalised65To74>212</CasesHospitalised65To74>
+        <CasesHospitalisedPcnt65To74>15.57</CasesHospitalisedPcnt65To74>
+        <CasesAdmittedToIcu65To74>12</CasesAdmittedToIcu65To74>
+        <Cases75To84>1147</Cases75To84>
+        <CasesHospitalised75To84>306</CasesHospitalised75To84>
+        <CasesHospitalisedPcnt75To84>22.47</CasesHospitalisedPcnt75To84>
+        <CasesAdmittedToIcu75To84>4</CasesAdmittedToIcu75To84>
+        <Cases85Plus>1040</Cases85Plus>
+        <CasesHospitalised85Plus>216</CasesHospitalised85Plus>
+        <CasesHospitalisedPcnt85Plus>15.86</CasesHospitalisedPcnt85Plus>
+        <CasesAdmittedToIcu85Plus>2</CasesAdmittedToIcu85Plus>
+        <CasesUnknown>11</CasesUnknown>
         <CasesHospitalisedUnknown>0</CasesHospitalisedUnknown>
         <CasesHospitalisedPcntUnknown>0</CasesHospitalisedPcntUnknown>
         <CasesAdmittedToIcuUnknown>0</CasesAdmittedToIcuUnknown>
