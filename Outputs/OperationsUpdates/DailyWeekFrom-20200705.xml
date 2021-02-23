@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HseOperationsUpdate xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CovidStates.OperationsUpdate">
+  <CoverDate>2020-07-05T00:00:00</CoverDate>
+  <SourceFileName>covid-19-daily-operations-update-20-00-05-july-2020.pdf</SourceFileName>
+  <TotalConfirmed i:nil="true" />
+  <TotalConfirmedLast24hrs i:nil="true" />
+  <TotalSuspected i:nil="true" />
+</HseOperationsUpdate>
