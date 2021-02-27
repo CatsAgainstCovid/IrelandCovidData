@@ -147,8 +147,8 @@
     </HspcHospitalised>
   </Hospitalised>
   <ImportedCases>
-    <Absolute>0</Absolute>
-    <Percent>0</Percent>
+    <Absolute>13</Absolute>
+    <Percent>0.22</Percent>
   </ImportedCases>
   <PreparedDate>2020-10-07T00:00:00</PreparedDate>
   <SexCharacteristics>

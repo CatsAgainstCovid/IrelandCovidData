@@ -284,8 +284,8 @@
   <FromDate>2020-11-07T00:00:00</FromDate>
   <Hospitalised i:nil="true" />
   <ImportedCases>
-    <Absolute>0</Absolute>
-    <Percent>0</Percent>
+    <Absolute>9</Absolute>
+    <Percent>0.17</Percent>
   </ImportedCases>
   <PreparedDate>2020-11-21T00:00:00</PreparedDate>
   <SexCharacteristics>
