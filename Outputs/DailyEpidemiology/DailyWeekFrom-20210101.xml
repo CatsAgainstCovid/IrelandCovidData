@@ -380,6 +380,10 @@
       <NumberOfCases>10</NumberOfCases>
     </HspcHospitalised>
   </Hospitalised>
+  <ImportedCases>
+    <Absolute>0</Absolute>
+    <Percent>0</Percent>
+  </ImportedCases>
   <PreparedDate>2021-01-15T00:00:00</PreparedDate>
   <SexCharacteristics>
     <Female>
@@ -396,7 +400,7 @@
       <Percent>0.05</Percent>
     </Unknown>
   </SexCharacteristics>
-  <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210115.pdf</SourceFileName>
+  <SourceFileName>COVID-19_14_day_epidemiology_WEB report_20210115 v2.0.pdf</SourceFileName>
   <SymptomStatusAtTimeOfTestCharacteristics>
     <No i:nil="true" />
     <Unknown i:nil="true" />

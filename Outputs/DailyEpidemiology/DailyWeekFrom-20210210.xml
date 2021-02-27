@@ -380,6 +380,10 @@
       <NumberOfCases>1</NumberOfCases>
     </HspcHospitalised>
   </Hospitalised>
+  <ImportedCases>
+    <Absolute>0</Absolute>
+    <Percent>0</Percent>
+  </ImportedCases>
   <PreparedDate>2021-02-24T00:00:00</PreparedDate>
   <SexCharacteristics>
     <Female>

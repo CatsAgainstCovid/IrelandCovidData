@@ -326,6 +326,10 @@
       <NumberOfCases>3</NumberOfCases>
     </HspcHospitalised>
   </Hospitalised>
+  <ImportedCases>
+    <Absolute>0</Absolute>
+    <Percent>0</Percent>
+  </ImportedCases>
   <PreparedDate>2020-10-27T00:00:00</PreparedDate>
   <SexCharacteristics>
     <Female>
