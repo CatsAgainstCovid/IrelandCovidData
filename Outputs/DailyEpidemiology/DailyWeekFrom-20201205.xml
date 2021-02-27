@@ -412,6 +412,10 @@
     <Absolute>4875</Absolute>
     <Percent>100</Percent>
   </TotalConfirmedCases>
+  <TravelRelatedCases>
+    <Absolute>100</Absolute>
+    <Percent>2.05</Percent>
+  </TravelRelatedCases>
   <UnderlyingConditionsCharacteristics>
     <No>
       <Absolute>2876</Absolute>

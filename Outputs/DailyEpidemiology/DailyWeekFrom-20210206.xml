@@ -365,6 +365,10 @@
     <Absolute>11914</Absolute>
     <Percent>100</Percent>
   </TotalConfirmedCases>
+  <TravelRelatedCases>
+    <Absolute>72</Absolute>
+    <Percent>0.60</Percent>
+  </TravelRelatedCases>
   <UnderlyingConditionsCharacteristics>
     <No i:nil="true" />
     <Unknown i:nil="true" />
