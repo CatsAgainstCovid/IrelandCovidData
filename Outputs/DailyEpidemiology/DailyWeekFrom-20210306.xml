@@ -340,6 +340,14 @@
       <NumberOfCases>839</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>8.70</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>36</CasesHospitalised>
+      <CasesHospitalisedPercent>10.17</CasesHospitalisedPercent>
+      <Name>55To64</Name>
+      <NumberOfCases>530</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
       <CasesAdmittedToIcu>7</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>30.43</CasesAdmittedToIcuPercent>
       <CasesHospitalised>64</CasesHospitalised>
@@ -394,9 +402,18 @@
   </SexCharacteristics>
   <SourceFileName>COVID-19 14 day epidemiology report_20210320 WEB v1.0.pdf</SourceFileName>
   <SymptomStatusAtTimeOfTestCharacteristics>
-    <No i:nil="true" />
-    <Unknown i:nil="true" />
-    <Yes i:nil="true" />
+    <No>
+      <Absolute>1504</Absolute>
+      <Percent>21.03</Percent>
+    </No>
+    <Unknown>
+      <Absolute>1493</Absolute>
+      <Percent>20.88</Percent>
+    </Unknown>
+    <Yes>
+      <Absolute>4155</Absolute>
+      <Percent>58.1</Percent>
+    </Yes>
   </SymptomStatusAtTimeOfTestCharacteristics>
   <ToDate>2021-03-19T00:00:00</ToDate>
   <TotalConfirmedCases>

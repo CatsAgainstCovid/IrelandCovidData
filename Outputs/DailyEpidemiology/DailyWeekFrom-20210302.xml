@@ -371,6 +371,14 @@
       <Name>85Plus</Name>
       <NumberOfCases>76</NumberOfCases>
     </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>0</CasesHospitalised>
+      <CasesHospitalisedPercent>0</CasesHospitalisedPercent>
+      <Name>Unknown</Name>
+      <NumberOfCases>1</NumberOfCases>
+    </HspcHospitalised>
   </Hospitalised>
   <ImportedCases>
     <Absolute>38</Absolute>
@@ -394,9 +402,18 @@
   </SexCharacteristics>
   <SourceFileName>COVID-19_14_day_epidemiology_report_20210316 web.pdf</SourceFileName>
   <SymptomStatusAtTimeOfTestCharacteristics>
-    <No i:nil="true" />
-    <Unknown i:nil="true" />
-    <Yes i:nil="true" />
+    <No>
+      <Absolute>1494</Absolute>
+      <Percent>21.19</Percent>
+    </No>
+    <Unknown>
+      <Absolute>1402</Absolute>
+      <Percent>19.88</Percent>
+    </Unknown>
+    <Yes>
+      <Absolute>4156</Absolute>
+      <Percent>58.93</Percent>
+    </Yes>
   </SymptomStatusAtTimeOfTestCharacteristics>
   <ToDate>2021-03-15T00:00:00</ToDate>
   <TotalConfirmedCases>

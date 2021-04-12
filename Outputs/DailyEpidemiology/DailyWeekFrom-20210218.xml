@@ -348,6 +348,14 @@
       <NumberOfCases>808</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
+      <CasesAdmittedToIcu>6</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>25.00</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>77</CasesHospitalised>
+      <CasesHospitalisedPercent>13.51</CasesHospitalisedPercent>
+      <Name>65To74</Name>
+      <NumberOfCases>386</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
       <CasesAdmittedToIcu>76</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>13.33</CasesAdmittedToIcuPercent>
       <CasesHospitalised>0</CasesHospitalised>

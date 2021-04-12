@@ -371,6 +371,14 @@
       <Name>85Plus</Name>
       <NumberOfCases>74</NumberOfCases>
     </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>0</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>0</CasesHospitalised>
+      <CasesHospitalisedPercent>0</CasesHospitalisedPercent>
+      <Name>Unknown</Name>
+      <NumberOfCases>1</NumberOfCases>
+    </HspcHospitalised>
   </Hospitalised>
   <ImportedCases>
     <Absolute>58</Absolute>

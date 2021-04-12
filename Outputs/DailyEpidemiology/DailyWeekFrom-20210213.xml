@@ -316,6 +316,22 @@
       <NumberOfCases>1630</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>3.33</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>59</CasesHospitalised>
+      <CasesHospitalisedPercent>8.70</CasesHospitalisedPercent>
+      <Name>25To34</Name>
+      <NumberOfCases>1633</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>3.33</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>62</CasesHospitalised>
+      <CasesHospitalisedPercent>9.14</CasesHospitalisedPercent>
+      <Name>35To44</Name>
+      <NumberOfCases>1591</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
       <CasesAdmittedToIcu>10</CasesAdmittedToIcu>
       <CasesAdmittedToIcuPercent>33.33</CasesAdmittedToIcuPercent>
       <CasesHospitalised>88</CasesHospitalised>
@@ -338,6 +354,14 @@
       <CasesHospitalisedPercent>15.63</CasesHospitalisedPercent>
       <Name>65To74</Name>
       <NumberOfCases>456</NumberOfCases>
+    </HspcHospitalised>
+    <HspcHospitalised>
+      <CasesAdmittedToIcu>0</CasesAdmittedToIcu>
+      <CasesAdmittedToIcuPercent>6.67</CasesAdmittedToIcuPercent>
+      <CasesHospitalised>115</CasesHospitalised>
+      <CasesHospitalisedPercent>16.96</CasesHospitalisedPercent>
+      <Name>75To84</Name>
+      <NumberOfCases>364</NumberOfCases>
     </HspcHospitalised>
     <HspcHospitalised>
       <CasesAdmittedToIcu>0</CasesAdmittedToIcu>

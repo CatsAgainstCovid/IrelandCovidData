@@ -259,9 +259,18 @@
   </SexCharacteristics>
   <SourceFileName>COVID-19_14_day_epidemiology_report_20210101_website.pdf</SourceFileName>
   <SymptomStatusAtTimeOfTestCharacteristics>
-    <No i:nil="true" />
-    <Unknown i:nil="true" />
-    <Yes i:nil="true" />
+    <No>
+      <Absolute>4162</Absolute>
+      <Percent>27.2</Percent>
+    </No>
+    <Unknown>
+      <Absolute>9683</Absolute>
+      <Percent>63.28</Percent>
+    </Unknown>
+    <Yes>
+      <Absolute>1457</Absolute>
+      <Percent>9.52</Percent>
+    </Yes>
   </SymptomStatusAtTimeOfTestCharacteristics>
   <ToDate>2020-12-31T00:00:00</ToDate>
   <TotalConfirmedCases>
